@@ -31,7 +31,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>mx.com.itam.adsi.ejercicio.Principal</mainClass>
+                  <mainClass>mx.com.itam.adsi.ejercicio.Solucion</mainClass>
                 </transformer>
               </transformers>
             </configuration>

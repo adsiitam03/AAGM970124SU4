@@ -1,0 +1,19 @@
+2018-04-20 08:34:00:431 INFO  Solucion:85 - Creación de Solucion
+2018-04-20 08:34:00:438 INFO  Node:22 - Crea nuevo nodo
+2018-04-20 08:34:00:438 INFO  Solucion:87 - Llama método 'ok'
+2018-04-20 08:34:00:439 INFO  Solucion:41 - Método build()
+2018-04-20 08:34:00:440 INFO  Solucion:42 - Crea 6 nodos con lestras de A hasta F
+2018-04-20 08:34:00:444 INFO  Node:22 - Crea nuevo nodo
+2018-04-20 08:34:00:444 INFO  Node:22 - Crea nuevo nodo
+2018-04-20 08:34:00:444 INFO  Node:22 - Crea nuevo nodo
+2018-04-20 08:34:00:444 INFO  Node:22 - Crea nuevo nodo
+2018-04-20 08:34:00:445 INFO  Node:22 - Crea nuevo nodo
+2018-04-20 08:34:00:445 INFO  Node:22 - Crea nuevo nodo
+2018-04-20 08:34:00:445 INFO  Node:57 - Imprime cadena de nodos
+2018-04-20 08:34:00:446 INFO  Node:57 - Imprime cadena de nodos
+2018-04-20 08:34:00:446 INFO  Node:57 - Imprime cadena de nodos
+2018-04-20 08:34:00:448 INFO  Node:22 - Crea nuevo nodo
+2018-04-20 08:34:00:453 INFO  Node:57 - Imprime cadena de nodos
+2018-04-20 08:34:00:459 INFO  Node:22 - Crea nuevo nodo
+2018-04-20 08:34:00:459 INFO  Node:22 - Crea nuevo nodo
+2018-04-20 08:34:00:459 INFO  Node:57 - Imprime cadena de nodos
